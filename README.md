@@ -26,7 +26,7 @@
 
 ## Как использовать
 
-1. Найдите бота в Telegram по нику [ДуховныйПомощник_bot](https://t.me/duhovnyjpomoshnikbot).
+1. Найдите бота в Telegram по нику [@duhovnyjpomoshnikbot](https://t.me/duhovnyjpomoshnikbot).
 2. Начните диалог с ботом, нажав на кнопку "Start".
 3. Следуйте инструкциям бота для заказа услуги.
 ---
